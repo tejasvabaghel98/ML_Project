@@ -1,0 +1,23 @@
+Agenda :::::
+ 
+A): we have to create github respository 
+  create one folder on my pc drive 
+  1> create environment on vscode (New Env)
+  command - conda create -p venv python==3.8 -y
+          - cls
+          - conda activate venv/
+          - create our environment on vscode
+  2> setup.py
+  3> requirements.txt
+
+B): Src folder and build the package 
+
+
+
+
+commit in git 
+
+
+SSH Key - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC77JSocT4XDFwJ8ofzJXueE5x9bpcCaqthFRZkJURITgNRFDAG3xYOoJToE4y1AeYRA9r5WKT4ZUu8vQIq9qosKIKaYSSRS/AJtd20KT2f9jkTBK8+z0b2Qz5M9TnYoUl2hm+ECoalcBe8KJs79Wn1VB3gUmtofmRNfyI6u1fTA0d6AB3k1DM8IPyYHDVQbUsdPv59r18hqzGx1Vo1fX30C2PCbB7DIrUJMyDLmDPX6x56jnmua+zG2srggMrM9RZDnOU5f/nA4fEblpUA1dC3CqBb9tKcX36cQhqeTqlB+Xr2AsgDEWIxcZ9l6T3a1iw7Suc+Ie2IHOarRaduBTCtwNN9zCUvo9hReFGSjQM+4yfQ8X4Ns/3Gy3dkD+UJX1sVLie8TP9ErtLqb6S+BRuUD/Zukd8F+OErQm/mvCv5HJHbg+u5TU/cE7hv+lFxbPcoskXn5yD5gzzrEdn6n1tP16Mq2QRc9gb8a95GB54k9lD6shr4u33zZYWGVPooLwE= tejasvabaghel98@gmail.com
+
+
